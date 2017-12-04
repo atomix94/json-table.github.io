@@ -1,0 +1,45 @@
+{
+    'books': [{
+
+            'name': 'TCP/IP w 24 godziny.',
+            'author': 'Joe Casad',
+            'year': '2017'
+
+  },
+        {
+
+            'name': 'Angular 2. Programowanie z użyciem języka TypeScript',
+            'author': 'Yakov Fain, Anton Moiseev',
+            'year': '2017'
+      },
+
+        {
+
+            'name': 'Język R. Kompletny zestaw narzędzi dla analityków danych',
+            'author': 'Hadley Wickham, Garrett Grolemund',
+            'year': '2017'
+
+},
+        {
+            'name': 'Programowanie zorientowane obiektowo w języku JavaScript. ',
+            'author': 'Ved Antani, Stoyan Stefanov',
+            'year': '2017'
+
+          },
+
+
+        {
+            'name': 'Czysty kod. Podręcznik dobrego programisty ',
+            'author': 'Robert C. Martin',
+            'year': '2015'
+          }
+
+
+
+         ]
+
+
+
+
+
+}
